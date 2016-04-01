@@ -1,0 +1,4 @@
+
+The first two sql_fun challenges were about getting you comfortable with SQL syntax.  You are now ready for your first SQL injection attack.  This time the developer has written a query to use the username and password you submit to verify the login.  Unfortunately this was written by our junior developer who doesn't understand input validation/sensitization and is way to trusting.
+
+** link coming soon, service is spinning up **
